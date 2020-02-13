@@ -55,7 +55,7 @@ Appearance Settings:
     * Color by Row Label -> Same color for all the bars with the same label (requires optional bar label dimension)
     * Background color -> string -> the hex code of the color for the background  
 - Date Format: let you insert the date format (https://en.wikipedia.org/wiki/ISO_8601)
-    * you can use if condition to dinamically change the format i.e: = If(GetSelectedCount(Data) = 1 OR GetPossibleCount(Data) = 1, 'HH:mm', 'd/M/yy') 
+    * you can use if condition to dinamically change the format i.e: = If(GetSelectedCount(Data) = 1 OR GetPossibleCount(Data) = 1, 'HH:mm', 'yyyy-MM-dd') 
 - Colors or Tooltip: This is required if you use 5 dimensions, let you choose if you want to use the third dimension as a Color or as a Tooltip. (has no effect if you has 3, 4 or 6 dimensions)
 
 
