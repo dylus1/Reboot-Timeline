@@ -1,9 +1,9 @@
 {
-	"name" : "Reboot Timeline",
-	"description" : "Reboot Timeline",
-	"icon" : "bar-chart-vertical",
+	"name" : "Timeline",
+	"description" : "Timeline - autor Simone Silini, Developed by Łukasz Dylewski",
+	"icon" : "bar-chart-horizontal",
 	"type" : "visualization",
-	"version": "1.0",
-	"preview" : "bar",
-	"author": "Simone Silini"
+	"version": "2020-02-13",
+	"preview" : "timeline-logo.png",
+	"author": "Simone Silini, Developed by Łukasz Dylewski"
 }
